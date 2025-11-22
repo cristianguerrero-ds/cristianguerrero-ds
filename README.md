@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Cristian Guerrero DS Jr.
 
-Aspirante a Científico de Datos, con formación en humanidades y experiencia en liderazgo educativo. Actualmente en transición al área de Data Science, combinando análisis crítico y storytelling con programación y estadística aplicada.
+Científico de Datos, con formación en humanidades y experiencia en liderazgo educativo. Actualmente en transición al área de Data Science, combinando análisis crítico y storytelling con programación y estadística aplicada.
 
 🛠️ Stack: Python 🐍 | Pandas | Numpy | Matplotlib | SQL | Data Storytelling | Estadística
 
