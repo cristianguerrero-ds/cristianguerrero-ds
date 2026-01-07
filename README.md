@@ -91,9 +91,9 @@ Como científico de datos, puedo analizar y transformar datos en conocimientos p
 <tr>
 <td align="center">
   <a href="https://github.com/cristianguerrero-ds/taxi-order-prediction" target="_blank">
-    <img src="https://www.elcarrocolombiano.com/wp-content/uploads/2024/08/20240812taxisaeropuertoElDoradoAA.jpg" width="300" alt="Taxi Order Prediction">
+    <img src="https://www.elcarrocolombiano.com/wp-content/uploads/2024/08/20240812taxisaeropuertoElDoradoAA.jpg" width="250" alt="Taxi Order Prediction">
   </a>
-  <br>Análisis Predictivo de la Demanda de Taxis: Implementación de Random Forest
+  <br>Análisis Predictivo de la Demanda de Taxis.
 </td>
 <td align="center">
   <a href="https://github.com/cristianguerrero-ds/Machine-Learning-Clasificacion-Binaria" target="_blank">
@@ -103,7 +103,7 @@ Como científico de datos, puedo analizar y transformar datos en conocimientos p
 </td>
 <td align="center">
   <a href="https://github.com/cristianguerrero-ds/applicacion-web-streamlit" target="_blank">
-    <img src="https://www.cesvicolombia.com/wp-content/uploads/2021/05/compra-carro.jpg" width="210" alt="Gráfica Interactiva de Publicidad Vehicular">
+    <img src="https://www.cesvicolombia.com/wp-content/uploads/2021/05/compra-carro.jpg" width="230" alt="Gráfica Interactiva de Publicidad Vehicular">
   </a>
   <br>Gráfica Interactiva de Publicidad Vehicular
 </td>
