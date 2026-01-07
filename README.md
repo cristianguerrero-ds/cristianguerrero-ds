@@ -41,8 +41,6 @@ Como científico de datos, puedo analizar y transformar datos en conocimientos p
 [![Tableau](https://img.shields.io/badge/Tableau-📈-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Git](https://img.shields.io/badge/Git-🌳-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
----
-
 
 ## 🐍 Programación y Herramientas Técnicas
 
@@ -54,6 +52,8 @@ Como científico de datos, puedo analizar y transformar datos en conocimientos p
 - Programación orientada a objetos
 - Manejo de APIs y web scraping
 
+---
+
 ### Machine Learning
 - Algoritmos supervisados: Regresión Lineal, Decision Trees, Random Forest, SVM
 - Algoritmos no supervisados: K-means, clustering jerárquico
@@ -62,13 +62,13 @@ Como científico de datos, puedo analizar y transformar datos en conocimientos p
 - Feature engineering y selección de variables
 - Evaluación de modelos y métricas de rendimiento
 
+---
+
 ### Análisis de Series Temporales
 - Descomposición estacional
 - Modelos ARIMA y SARIMA
 - Predicción y forecasting
 - Análisis de tendencias y estacionalidad
-
----
 
 ## 📊 Análisis de Datos y Estadística
 
@@ -84,10 +84,6 @@ Como científico de datos, puedo analizar y transformar datos en conocimientos p
 - Storytelling con datos
 - Gráficos avanzados y visualizaciones personalizadas
 - Mejores prácticas de diseño visual
-
----
-
-## 🏗️ Mis Proyectos
 
 ## 🏗️ Mis Proyectos
 
@@ -115,9 +111,6 @@ Como científico de datos, puedo analizar y transformar datos en conocimientos p
 </table>
 
 
-
----
-
 ## 🗄️ Bases de Datos y SQL
 
 - Consultas SQL complejas (JOINs, subconsultas, CTEs)
@@ -125,7 +118,6 @@ Como científico de datos, puedo analizar y transformar datos en conocimientos p
 - Trabajo con bases de datos relacionales
 - Extracción y transformación de datos (ETL)
 
----
 
 ## 📈 Herramientas de Business Intelligence
 
@@ -133,7 +125,6 @@ Como científico de datos, puedo analizar y transformar datos en conocimientos p
 - Creación de reportes automatizados
 - Análisis de KPIs y métricas de negocio
 
----
 
 ## 🔬 Metodologías y Procesos
 
@@ -150,7 +141,6 @@ Como científico de datos, puedo analizar y transformar datos en conocimientos p
 - Validación y testing de modelos
 - Deployment y monitoreo de modelos
 
----
 
 ## 💼 Habilidades Profesionales
 
@@ -166,7 +156,6 @@ Como científico de datos, puedo analizar y transformar datos en conocimientos p
 - Gestión de proyectos
 - Code review y mejores prácticas
 
----
 
 ## 🏢 Aplicaciones Empresariales
 
@@ -182,7 +171,6 @@ Como científico de datos, puedo analizar y transformar datos en conocimientos p
 - Análisis de riesgo crediticio
 - Predicción de ventas y planificación estratégica
 
----
 
 ## 📬 Contáctame
 
