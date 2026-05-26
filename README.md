@@ -103,7 +103,7 @@ Como científico de datos, puedo analizar y transformar datos en conocimientos p
 </td>
 <td align="center">
   <a href="https://github.com/cristianguerrero-ds/credit-risk-classification" target="_blank">
-    <img src="https://media.assettype.com/outlookmoney/2025-10-08/ixzzr2z5/Credit-Risk-Overhaul-.png" width="300" alt="Gender-neutral credit risk prediction">
+    <img src="https://media.assettype.com/outlookmoney/2025-10-08/ixzzr2z5/Credit-Risk-Overhaul-.png" width="280" alt="Gender-neutral credit risk prediction">
   </a>
   <br>Smart Retention: Beta Bank Churn Prediction Model
 </td>
