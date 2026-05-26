@@ -99,17 +99,17 @@ Como científico de datos, puedo analizar y transformar datos en conocimientos p
   <a href="https://github.com/cristianguerrero-ds/Machine-Learning-Clasificacion-Binaria" target="_blank">
     <img src="https://pqs.pe/wp-content/uploads/2023/05/Empresa-conceptos.jpg" width="300" alt="Smart Retention: Beta Bank Churn Prediction Model">
   </a>
-  <br>Análisis Predictivo de Riesgo Crediticio.
+  <br>Smart Retention: Beta Bank Churn Prediction Model 
 </td>
 <td align="center">
   <a href="https://github.com/cristianguerrero-ds/credit-risk-classification" target="_blank">
     <img src="https://media.assettype.com/outlookmoney/2025-10-08/ixzzr2z5/Credit-Risk-Overhaul-.png" width="280" alt="Gender-neutral credit risk prediction">
   </a>
-  <br>Smart Retention: Beta Bank Churn Prediction Model
+  <br>Análisis Predictivo de Riesgo Crediticio.
 </td>
 <td align="center">
   <a href="https://github.com/cristianguerrero-ds/applicacion-web-streamlit" target="_blank">
-    <img src="https://www.cesvicolombia.com/wp-content/uploads/2021/05/compra-carro.jpg" width="230" alt="Gráfica Interactiva de Publicidad Vehicular">
+    <img src="https://www.cesvicolombia.com/wp-content/uploads/2021/05/compra-carro.jpg" width="210" alt="Gráfica Interactiva de Publicidad Vehicular">
   </a>
   <br>Gráfica Interactiva de Publicidad Vehicular
 </td>
